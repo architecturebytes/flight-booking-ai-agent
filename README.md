@@ -1,4 +1,4 @@
-# AI-Powered Flight Booking Application - using Gemini Live
+# Flight Booking AI Agent - using Gemini Live
 
 Refer YouTube Video: https://www.youtube.com/watch?v=SMQnJ-KI5nI
 
