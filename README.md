@@ -38,7 +38,7 @@ This is a flight booking Agentic Application that combines conversational voice 
    npm install
    ```
 
-3. **Configure Environment Variables:**
+3. **Configure Environment Variables:**<br>
    Copy the `.env.example` file to `.env` file in the root directory and update with your Gemini API key:
    ```env
    VITE_GEMINI_API_KEY=your_api_key_here
@@ -67,6 +67,3 @@ This is a flight booking Agentic Application that combines conversational voice 
 - **Map Engine:** Leaflet (BSD 2-Clause License)
 - **Map Data:** © OpenStreetMap contributors
 - **UI Icons:** Lucide React (ISC License)
-
----
-*Developed as a demonstration of the Gemini Multimodal Live API.*
